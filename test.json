@@ -3,17 +3,22 @@
     {
       "name": "Steam",
       "icon": "steam",
-      "url": ""
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3702489470"
     },
     {
       "name": "Github",
       "icon": "github",
-      "url": ""
+      "url": "https://github.com/sourceenjoyer/P2CEPanoramaUIWebRequestTest"
     },
     {
       "name": "YouTube",
       "icon": "discord",
-      "url": ""
+      "url": "https://www.youtube.com/@p2ce"
+    },
+    {
+      "name": "Wiki",
+      "icon": "home",
+      "url": "https://wiki.stratasource.org/"
     }
   ]
 }
