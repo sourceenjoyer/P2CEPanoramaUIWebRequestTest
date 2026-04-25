@@ -1,0 +1,16 @@
+{
+	links = [
+		"Steam" = {
+			icon = "steam"
+			url = ""
+		},
+		"Github" = {
+			icon = "github"
+			url = ""
+		}
+		"YouTube" = {
+			icon = "discord"
+			url = ""
+		}
+    ]
+}
