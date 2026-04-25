@@ -1,1 +1,19 @@
-
+{
+  "links": [
+    {
+      "name": "Steam",
+      "icon": "steam",
+      "url": ""
+    },
+    {
+      "name": "Github",
+      "icon": "github",
+      "url": ""
+    },
+    {
+      "name": "YouTube",
+      "icon": "discord",
+      "url": ""
+    }
+  ]
+}
